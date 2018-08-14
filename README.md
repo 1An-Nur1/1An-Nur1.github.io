@@ -1,7 +1,7 @@
 #                               " I said - Let ther be LIGHT and VOILA!!! "- The IT
 
 
-# Now You Know
+### Now You Know
 
 I am M A N I Fahim, graduated from KUET. I recieved my B.E. from Department of ECE. As an alltime researcher I like to research on numerous things. My main area of interests are: Computer Vision, Image Processing, Computational Photography, Deep learning, Biomedical Image Processing.During my undergradate, I was fortunate enough to work with Professor Dr. A.B.M. Aowlad Hossain
 
