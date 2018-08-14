@@ -11,6 +11,7 @@ I am M A N I Fahim, graduated from KUET. I recieved my B.E. from Department of E
 ### Completed & Upcoming 
 
 _**  “A New Low light image enahncemnt scheme by candidate probabilty anticipation”**_
+   ([code][https://github.com/1An-Nur1/Low-Light-image-enhancement])
 
 
 _**  “Underwater image enahncemnt: A channel correction based approach”**_
@@ -35,7 +36,7 @@ _**  “A channel guided approach for low light image improvement”**_
 
 
 _**  “A simple method of contrast correction for images with very well exposure”**_
-   Github link ([code](https://github.com/1An-Nur1/CE-for-well-exposed-images))
+ ([code](https://github.com/1An-Nur1/CE-for-well-exposed-images))
 
 
 
