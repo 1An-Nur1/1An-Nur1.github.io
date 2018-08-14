@@ -7,7 +7,39 @@ I am M A N I Fahim, graduated from KUET. I recieved my B.E. from Department of E
 
 ##  <|?|> RESEARCH WORK
 
-### (PUBLISHED)
+
+### Completed & Upcoming 
+
+**  “A New Low light image enahncemnt by candidate probabilty anticipation”**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### PUBLISHED
 
 ** Sakib Mostafa, Masud An Nur Islam Fahim and A B M Aowlad Hossain, “A New Chaos Based Medical Image Encryption Scheme”, in Proc. of 6th International Conference on Informatics, Electronics & Vision (ICIEV), Kokura, Kitakyushu, Japan.**
 
