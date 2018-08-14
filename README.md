@@ -10,7 +10,35 @@ I am M A N I Fahim, graduated from KUET. I recieved my B.E. from Department of E
 
 ### Completed & Upcoming 
 
-**  “A New Low light image enahncemnt by candidate probabilty anticipation”**
+_**  “A New Low light image enahncemnt scheme by candidate probabilty anticipation”**_
+
+
+_**  “Underwater image enahncemnt: A channel correction based approach”**_
+
+
+_**  “Dehazing the hazy image using contrast correction ”**_
+
+
+_**  “Low light image enahncemnt by estimating radiance map”**_
+
+
+_**  “Poorly exposed image enhancement by multi exposure fusion”**_
+
+
+_**  “Tone based style manipulation”**_
+
+
+_**  “Artistic details enhancement of real life and HDR image”**_
+
+
+_**  “A channel guided approach for low light image improvement”**_
+
+
+_**  “A simple method of contrast correction for images with very well exposure”**_
+
+
+
+
 
 
 
@@ -41,19 +69,19 @@ I am M A N I Fahim, graduated from KUET. I recieved my B.E. from Department of E
 
 ### PUBLISHED
 
-** Sakib Mostafa, Masud An Nur Islam Fahim and A B M Aowlad Hossain, “A New Chaos Based Medical Image Encryption Scheme”, in Proc. of 6th International Conference on Informatics, Electronics & Vision (ICIEV), Kokura, Kitakyushu, Japan.**
+_** Sakib Mostafa, Masud An Nur Islam Fahim and A B M Aowlad Hossain, “A New Chaos Based Medical Image Encryption Scheme”, in Proc. of 6th International Conference on Informatics, Electronics & Vision (ICIEV), Kokura, Kitakyushu, Japan.**_
 
-** Masud An Nur Islam Fahim, Sakib Mostafa, Jarin Tasnim and A B M Aowlad Hossain, “Alignment of 3-D Scanning Data for Polygonal Mesh based on Modified Triangulation”, in Proc. of 6th International Conference on Informatics, Electronics & Vision (ICIEV), Kokura, Kitakyushu, Japan.**
+_** Masud An Nur Islam Fahim, Sakib Mostafa, Jarin Tasnim and A B M Aowlad Hossain, “Alignment of 3-D Scanning Data for Polygonal Mesh based on Modified Triangulation”, in Proc. of 6th International Conference on Informatics, Electronics & Vision (ICIEV), Kokura, Kitakyushu, Japan.**_
 
-** Masud An Nur Islam Fahim, Sharafat Hossain ;”A Simple Way to Create Pointillistic Art from Natural Images” .3rd IEEE International Conference on Cybernetics (CYBCONF), , Exeter University, Exeter,UK.**
+_** Masud An Nur Islam Fahim, Sharafat Hossain ;”A Simple Way to Create Pointillistic Art from Natural Images” .3rd IEEE International Conference on Cybernetics (CYBCONF), , Exeter University, Exeter,UK.**_
 
-** Sharafat Hossain; Masud An Nur Islam Fahim, ”A simple way of image encryption using pixel shuffling and pixel manipulation”, 20th International Conference of Computer and Information Technology (ICCIT).**
+_** Sharafat Hossain; Masud An Nur Islam Fahim, ”A simple way of image encryption using pixel shuffling and pixel manipulation”, 20th International Conference of Computer and Information Technology (ICCIT).**_
 
-** Masud An Nur Islam Fahim; Abdullah Al-Murad; Md. Foisal Hossain , “Multiview three dimensional reconstruction of real life object”, 4th International Conference on Advances in Electrical Engineering (ICAEE).**
+_** Masud An Nur Islam Fahim; Abdullah Al-Murad; Md. Foisal Hossain , “Multiview three dimensional reconstruction of real life object”, 4th International Conference on Advances in Electrical Engineering (ICAEE).**_
 
-** Md. Jahiruzzaman, Masud An Nur Islam Fahim, Sakib Mostafa and A B M Aowlad Hossain, “An Adaptive Reconfigurable Radix-2n FFT/IFFT Architecture”, in Proc. of 5th International Conference on Informatics, Electronics & Vision (ICIEV), 13-14 May, 2016, Dhaka University, Dhaka, Bangladesh.**
+_** Md. Jahiruzzaman, Masud An Nur Islam Fahim, Sakib Mostafa and A B M Aowlad Hossain, “An Adaptive Reconfigurable Radix-2n FFT/IFFT Architecture”, in Proc. of 5th International Conference on Informatics, Electronics & Vision (ICIEV), 13-14 May, 2016, Dhaka University, Dhaka, Bangladesh.**_
 
-** Sakib Mostafa, Masud An Nur Islam Fahim and Jarin Tasnim, “An Approach to Effective 3D Reconstruction Based on Point Cloud Merging” Conference poster presentation, WIECON-ECE, December, 2016, AISSIS, Pune, India. ( Best Presentation).**
+_** Sakib Mostafa, Masud An Nur Islam Fahim and Jarin Tasnim, “An Approach to Effective 3D Reconstruction Based on Point Cloud Merging” Conference poster presentation, WIECON-ECE, December, 2016, AISSIS, Pune, India. ( Best Presentation).**_
 
 
 
