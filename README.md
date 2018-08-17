@@ -47,18 +47,18 @@ _**  “A simple method of contrast correction for images with very well expo
 
 ### PUBLISHED
 
-_** Sakib Mostafa, Masud An Nur Islam Fahim and A B M Aowlad Hossain, “A New Chaos Based Medical Image Encryption Scheme”, in Proc. of 6th International Conference on Informatics, Electronics & Vision (ICIEV), Kokura, Kitakyushu, Japan.**_
+_ Sakib Mostafa, Masud An Nur Islam Fahim and A B M Aowlad Hossain, **A New Chaos Based Medical Image Encryption Scheme”, in Proc. of 6th International Conference on Informatics, Electronics & Vision (ICIEV), Kokura, Kitakyushu, Japan.**_
 
-_** Masud An Nur Islam Fahim, Sakib Mostafa, Jarin Tasnim and A B M Aowlad Hossain, “Alignment of 3-D Scanning Data for Polygonal Mesh based on Modified Triangulation”, in Proc. of 6th International Conference on Informatics, Electronics & Vision (ICIEV), Kokura, Kitakyushu, Japan.**_
+_ Masud An Nur Islam Fahim, Sakib Mostafa, Jarin Tasnim and A B M Aowlad Hossain, **Alignment of 3-D Scanning Data for Polygonal Mesh based on Modified Triangulation”, in Proc. of 6th International Conference on Informatics, Electronics & Vision (ICIEV), Kokura, Kitakyushu, Japan.**_
 
-_** Masud An Nur Islam Fahim, Sharafat Hossain ;”A Simple Way to Create Pointillistic Art from Natural Images” .3rd IEEE International Conference on Cybernetics (CYBCONF), , Exeter University, Exeter,UK.**_
+_ Masud An Nur Islam Fahim, Sharafat Hossain, **"A Simple Way to Create Pointillistic Art from Natural Images” .3rd IEEE International Conference on Cybernetics (CYBCONF), , Exeter University, Exeter,UK.**_
 
-_** Sharafat Hossain; Masud An Nur Islam Fahim, ”A simple way of image encryption using pixel shuffling and pixel manipulation”, 20th International Conference of Computer and Information Technology (ICCIT).**_
+_ Sharafat Hossain; Masud An Nur Islam Fahim, **A simple way of image encryption using pixel shuffling and pixel manipulation”, 20th International Conference of Computer and Information Technology (ICCIT).**_
 
-_** Masud An Nur Islam Fahim; Abdullah Al-Murad; Md. Foisal Hossain , “Multiview three dimensional reconstruction of real life object”, 4th International Conference on Advances in Electrical Engineering (ICAEE).**_
+_ Masud An Nur Islam Fahim; Abdullah Al-Murad; Md. Foisal Hossain , **Multiview three dimensional reconstruction of real life object”, 4th International Conference on Advances in Electrical Engineering (ICAEE).**_
 
-_** Md. Jahiruzzaman, Masud An Nur Islam Fahim, Sakib Mostafa and A B M Aowlad Hossain, “An Adaptive Reconfigurable Radix-2n FFT/IFFT Architecture”, in Proc. of 5th International Conference on Informatics, Electronics & Vision (ICIEV), 13-14 May, 2016, Dhaka University, Dhaka, Bangladesh.**_
+_ Md. Jahiruzzaman, Masud An Nur Islam Fahim, Sakib Mostafa and A B M Aowlad Hossain, **An Adaptive Reconfigurable Radix-2n FFT/IFFT Architecture”, in Proc. of 5th International Conference on Informatics, Electronics & Vision (ICIEV), 13-14 May, 2016, Dhaka University, Dhaka, Bangladesh.**_
 
-_** Sakib Mostafa, Masud An Nur Islam Fahim and Jarin Tasnim, “An Approach to Effective 3D Reconstruction Based on Point Cloud Merging” Conference poster presentation, WIECON-ECE, December, 2016, AISSIS, Pune, India. ( Best Presentation).**_
+_ Sakib Mostafa, Masud An Nur Islam Fahim and Jarin Tasnim, **An Approach to Effective 3D Reconstruction Based on Point Cloud Merging” Conference poster presentation, WIECON-ECE, December, 2016, AISSIS, Pune, India. ( Best Presentation).**_
 
 
