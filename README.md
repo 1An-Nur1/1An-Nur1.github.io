@@ -51,7 +51,7 @@ _ Sakib Mostafa, Masud An Nur Islam Fahim and A B M Aowlad Hossain, **A New C
 
 _ Masud An Nur Islam Fahim, Sakib Mostafa, Jarin Tasnim and A B M Aowlad Hossain, **Alignment of 3-D Scanning Data for Polygonal Mesh based on Modified Triangulation”, in Proc. of 6th International Conference on Informatics, Electronics & Vision (ICIEV), Kokura, Kitakyushu, Japan.**_
 
-_ Masud An Nur Islam Fahim, Sharafat Hossain, **"A Simple Way to Create Pointillistic Art from Natural Images” .3rd IEEE International Conference on Cybernetics (CYBCONF), , Exeter University, Exeter,UK.**_
+_ Masud An Nur Islam Fahim, Sharafat Hossain, **A Simple Way to Create Pointillistic Art from Natural Images” .3rd IEEE International Conference on Cybernetics (CYBCONF), , Exeter University, Exeter,UK.**_
 
 _ Sharafat Hossain; Masud An Nur Islam Fahim, **A simple way of image encryption using pixel shuffling and pixel manipulation”, 20th International Conference of Computer and Information Technology (ICCIT).**_
 
